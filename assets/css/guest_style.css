@@ -1,0 +1,9 @@
+#guest_chat_dialog{
+	width:400px;
+}
+
+#guest_chat_dialog #guest_chat_box{
+	border:1px solid black;
+	height:400px;
+	overflow-y:scroll;
+}
